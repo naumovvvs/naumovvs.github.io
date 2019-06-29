@@ -158,4 +158,56 @@ section#counter-stats {
 	.overlay{
 		margin-top: 165px;
 	}
+	.carousel-caption p {
+		display: none;
+	}
+	.carousel-caption h1{
+		font-size: 20px;
+		margin-bottom: -5px;
+	}
+	.carousel-caption .btn{
+		padding: 3px;
+		margin-bottom: -10px;
+	}
+	.carousel-caption span a{
+		font-size: 12px;
+	}
+	.carousel-item img{
+		margin-top: 50px;
+	}
+	#top{
+	margin-top: 25px;
+	}
+}
+@media only screen and (max-width: 568px) {
+	.overlay h4{
+		font-size: 9px;
+	}
+	.overlay h3{
+		font-size: 10px;
+		margin-bottom: -17px;
+	}
+	.overlay{
+		margin-top: 215px;
+	}
+	.carousel-caption p {
+		display: none;
+	}
+	.carousel-caption h1{
+		font-size: 20px;
+		margin-bottom: -5px;
+	}
+	.carousel-caption .btn{
+		padding: 3px;
+		margin-bottom: -10px;
+	}
+	.carousel-caption span a{
+		font-size: 12px;
+	}
+	.carousel-item img{
+		margin-top: 50px;
+	}
+	#top{
+	margin-top: 25px;
+	}
 }

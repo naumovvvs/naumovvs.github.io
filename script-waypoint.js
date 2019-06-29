@@ -30,7 +30,7 @@ $firstStage.waypoint(function(direction) {
   else{
     console.log(count);
   }
-}, {offset: '60%'});
+}, {offset: '50%'});
 
 
 var $secondStage = $('.secondStage');
